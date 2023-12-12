@@ -16,4 +16,4 @@ jobs:
       with:
         r-version: '3.5.3' # The R version to download (if necessary) and use. 
     # Use "renv" to retrieve R version recorded in renv.lock file.
-    - run: Rscript -e 'source("shelter_case_study.RMD")'
+    - run: Rscript -e 'source("Hw2 - Exercise4.R")'
